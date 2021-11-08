@@ -1,7 +1,7 @@
 # Microverse's Final Capstone Project: Book of Appointment
 
-<h1 align="center"><img src="screen_1.png"></h1>
-[screen_2.png] 
+<h1 align="center"><img src="screen_2.png"></h1>
+
 
 
 
